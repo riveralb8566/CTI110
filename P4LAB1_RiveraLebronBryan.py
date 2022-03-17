@@ -1,6 +1,6 @@
 user_text = input()
 
-''' Type your code here. '''
+
 char_count = 0
 for character in user_text:
     if (character !=' ') and (character != '.') and (character != ',') and (character != '!'):
