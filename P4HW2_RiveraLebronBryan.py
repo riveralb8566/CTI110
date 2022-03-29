@@ -35,7 +35,7 @@ def main():
 main()
 
 # if: How many students do you want to order pizza? = 25
-#     Enter number of people per pizza (1.5, 2 or 3): = 2
+#     Enter number of people per pizza (1.5, 2 or 3): = 4
 #     INVALID ENTRY!!!!
 #   should have entered 1.5, 2 or 3
 #
