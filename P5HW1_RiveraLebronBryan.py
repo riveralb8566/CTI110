@@ -91,7 +91,7 @@ def listofscores():
 def printscores(resultlist):
     
     
-    #prints values
+    
     print('Lowest score:',resultlist[0])
     print('List of scores (lowest omitted):',resultlist[1])
     print('Average:',resultlist[2])
@@ -101,31 +101,31 @@ def printscores(resultlist):
 
 main()
 
-##----MENU----
-##1. Create Score List
-##2. Display Results
-##3. Exit
-##------------
-##Enter a choice 1 or 2 or 3: 1
-##  If 1
-##Enter number of scores: 4
-## If 4
-##Enter score #1: 100
-##Enter score #2: 100
-##Enter score #3: 100
-##Enter score #4: 90
+##  ----MENU----
+##  1. Create Score List
+##  2. Display Results
+##  3. Exit
+##  ------------
+##  Enter a choice 1 or 2 or 3: 1
+##      If 1
+##  Enter number of scores: 4
+##      If 4
+##  Enter score #1: 100
+##  Enter score #2: 100
+##  Enter score #3: 100
+##  Enter score #4: 90
 ##
-##----MENU----
-##1. Create Score List
-##2. Display Results
-##3. Exit
-##------------
-##Enter a choice 1 or 2 or 3: 2
-## If 2
-##Lowest score: 90
-##List of scores (lowest omitted): [100, 100, 100]
-##Average: 100.0
-##Letter Grade: A
+##  ----MENU----
+##  1. Create Score List
+##  2. Display Results
+##  3. Exit
+##  ------------
+##  Enter a choice 1 or 2 or 3: 2
+##      If 2
+##  Lowest score: 90
+##  List of scores (lowest omitted): [100, 100, 100]
+##  Average: 100.0
+##  Letter Grade: A
 
 
 
