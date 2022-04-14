@@ -98,7 +98,7 @@ def subtract():
             print('WOW')
             print("!!!You have DONE it in in your FIRST try, GOOD JOB!!!")
 
-        if count != 1:
+        elif count != 1:
             print("You have DONE it in this amount of tries", count ,"GOOD JOB")
 
         
